@@ -1,4 +1,4 @@
-# Machine-Learning-for-Business---Group-Assignment
+# Machine-Learning-for-Business-Group-Assignment
 # README
 We trained 7 models based on the diabetes dataset, namely Logistic Regression, XGBoost, MLP, XGBoost + optimizer, and random forest, as well as two integrated models, voting classifier and stacking model. Through evaluation, we determined the model with the highest accuracy and combined it with the medical system we developed to provide medical staff with simple diabetes detection functions.
 
